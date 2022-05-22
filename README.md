@@ -56,7 +56,7 @@ Be aware of what game you are playing and the hotkeys that it has. Once started,
 
 ## Running
 
-To officially run the program, you can click the play button in the top right of the code window.
+To officially run the program, you can click the play button in the top right of the code window. After, switch to the game and get setup in whatever way you need and click the command key `o` (or your new one).
 
 ## Game Dependent Enter
 
